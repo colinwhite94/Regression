@@ -1,0 +1,2 @@
+# Regression
+We need to make sure a potential site for windmills will be profitable. To do this we need to know accurate information on the wind speed in candidate sites for windmills. Collecting this data would cost lots of time and money. However, we may be able to use already existing data from reference sites that are close to the candidate sites. If we can prove that the reference site’s wind speed data is a good predictor of candidate sites’ wind speed then we can make good business choices on where to invest in building windmills.
